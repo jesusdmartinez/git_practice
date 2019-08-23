@@ -1,3 +1,1 @@
-Hello Git and Github BOYEEEEE
-
-YEAHHHHHH!
+Hello Git and Github
